@@ -18,5 +18,5 @@ if dia_semana in lista_fds:
 else:
     local = "Trabalho"
 print("="*40)
-print( f"\nNesse dia da semana você estará aqui: {local}")
+print( f"Nesse dia da semana você estará aqui: {local}")
 print("="*40)
