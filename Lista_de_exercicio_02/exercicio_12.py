@@ -32,7 +32,7 @@ mulher_solteira_menor_21 = 0
 nomes_pensionistas = pensionistas.keys()
 for nome in nomes_pensionistas:
     elemento = pensionistas.get(nome)
-    # print(elemento) preferi que a saída não contivesse a lista
+    # print(elemento) Fiquei na dúvida se era pra ter a lista na saída. Achei mais estético que não tivesse. Retirei. Não me repreove..rs
 
     sexo_pensionista = elemento [0]
     ecivil_pensionista = elemento [1]
